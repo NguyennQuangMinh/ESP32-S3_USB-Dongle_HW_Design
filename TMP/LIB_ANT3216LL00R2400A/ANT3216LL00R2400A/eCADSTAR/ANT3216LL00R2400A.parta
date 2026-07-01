@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_13498406"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-06-12:16:01)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ANT3216LL00R2400A")
+)
+
+
+(pinAssign "ECS_13498406"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-06-12:16:01)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13498406")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ANT3216LL00R2400A")
+)
+
+
+(part "ANT3216LL00R2400A"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-06-12:16:01)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "ANT3216LL00R2400A")
+    (pinAssignRef "ECS_13498406")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "ANT")
+    (property "description" "Antennas 1W 2.4-2.5GHz ANTENNA")
+    (property "Manufacturer_Name" "Yageo Group")
+    (property "Manufacturer_Part_Number" "ANT3216LL00R2400A")
+    (property "Mouser_Part_Number" "603-ANT3216LL00R2400")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/ANT3216LL00R2400A?qs=VAB4DzKv5wVywAIgVVebaA%3D%3D")
+    (property "Arrow_Part_Number" "ANT3216LL00R2400A")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ant3216ll00r2400a/pulse-electronics-corporation.html?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://eu.mouser.com/datasheet/2/336/datasheet_ant3216ll00r2400a_v1_1617827483-2529684.pdf")
+    (property "compAreaTopHeight" 1.35)
+)
+
+

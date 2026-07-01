@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ANT3216LL00R2400A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Yageo Group", "ANT3216LL00R2400A" (!) = "", "ANT3216LL00R2400A", "Other", "603-ANT3216LL00R2400", "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/ANT3216LL00R2400A?qs=VAB4DzKv5wVywAIgVVebaA%3D%3D", "ANT3216LL00R2400A", "https://www.arrow.com/en/products/ant3216ll00r2400a/pulse-electronics-corporation.html?utm_currency=USD&region=nac", "Antennas 1W 2.4-2.5GHz ANTENNA", "https://eu.mouser.com/datasheet/2/336/datasheet_ant3216ll00r2400a_v1_1617827483-2529684.pdf", "1.35 mm"
+END_PART
+
+END.

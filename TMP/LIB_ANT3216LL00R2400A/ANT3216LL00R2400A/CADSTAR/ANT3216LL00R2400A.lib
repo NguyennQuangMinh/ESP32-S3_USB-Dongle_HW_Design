@@ -1,0 +1,18 @@
+.ANT3216LL00R2400A :1 ;Antennas 1W 2.4-2.5GHz ANTENNA
+ANT3216LL00R2400A
+*STM ANT
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ANT3216LL00R2400A
+~!Manufacturer_Name (Yageo Group)
+~!Manufacturer_Part_Number (ANT3216LL00R2400A)
+~!Mouser Part Number (603-ANT3216LL00R2400)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/ANT3216LL00R2400A?qs=VAB4DzKv5wVywAIgVVebaA%3D%3D)
+~!Arrow Part Number (ANT3216LL00R2400A)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ant3216ll00r2400a/pulse-electronics-corporation.html?utm_currency=USD&region=nac)
+~!Link Datasheet (https://eu.mouser.com/datasheet/2/336/datasheet_ant3216ll00r2400a_v1_1617827483-2529684.pdf)
+~!Height (1.35mm)
+~!3D_Model (ANT3216LL00R2400A)
+ANT3216LL00R2400A
+1.1!U 2.1!U 

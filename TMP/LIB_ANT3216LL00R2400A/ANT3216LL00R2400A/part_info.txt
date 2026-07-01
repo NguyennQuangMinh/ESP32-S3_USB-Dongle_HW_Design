@@ -1,0 +1,9 @@
+Manufacturer=Yageo Group
+PartNumber=ANT3216LL00R2400A
+PartCategory=Antenna
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2022-01-06 12:16:01
+Downloaded=2026-07-01 08:37:16
+3D=Y

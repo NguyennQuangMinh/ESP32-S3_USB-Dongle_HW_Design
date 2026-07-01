@@ -1,0 +1,118 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ANT3216LL00R2400A"
+   (description "Antennas 1W 2.4-2.5GHz ANTENNA")
+   (family "ANA")
+   (package "ANT3216LL00R2400A")
+   (attribute "Datasheet Link" "https://eu.mouser.com/datasheet/2/336/datasheet_ant3216ll00r2400a_v1_1617827483-2529684.pdf")
+   (attribute "Geometry.Height" "1.35mm")
+   (attribute "Manufacturer_Name" "Yageo Group")
+   (attribute "Manufacturer_Part_Number" "ANT3216LL00R2400A")
+   (attribute "Mouser Part Number" "603-ANT3216LL00R2400")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/ANT3216LL00R2400A?qs=VAB4DzKv5wVywAIgVVebaA%3D%3D")
+   (attribute "Arrow Part Number" "ANT3216LL00R2400A")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/ant3216ll00r2400a/pulse-electronics-corporation.html?utm_currency=USD&region=nac")
+   (gate
+    (symbol "ANT3216LL00R2400A")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "ANT3216LL00R2400A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ANT3216LL00R2400A"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 -0.8)
+      (pt 1.6 -0.8)
+      (pt 1.6 0.8)
+      (pt -1.6 0.8)
+      (pt -1.6 -0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.8 0.8)
+      (pt 1 0.8)
+      (pt 1 0.8)
+      (pt -0.8 0.8)
+      (pt -0.8 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.8 -0.8)
+      (pt 0.8 -0.8)
+      (pt 0.8 -0.8)
+      (pt -0.8 -0.8)
+      (pt -0.8 -0.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.75 1.9)
+      (pt 2.75 1.9)
+      (pt 2.75 -1.9)
+      (pt -2.75 -1.9)
+      (pt -2.75 1.9))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.3 0)
+      (arc (pt -2.300 0.000) (pt -2.300 -0.050) (pt -2.200 0.050) (start 180.0) (sweep 180.0))
+      (pt -2.2 0)
+      (arc (pt -2.200 0.000) (pt -2.300 -0.050) (pt -2.200 0.050) (start 180.0) (sweep .0))
+      (pt -2.3 0)
+      (arc (pt -2.300 0.000) (pt -2.300 -0.050) (pt -2.200 0.050) (start 180.0) (sweep 180.0))
+      (pt -2.2 0))))
+   (leg 1 (pt -1.550 0.000) (padstack 0))
+   (leg 2 (pt 1.550 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.400 1.800 0 0 90.000))
+   )
+   (model "ANT3216LL00R2400A.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
