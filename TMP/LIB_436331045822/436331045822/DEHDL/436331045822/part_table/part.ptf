@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '436331045822'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "436331045822" (!) = "", "436331045822", "Other", "710-436331045822", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/436331045822?qs=wr8lucFkNMXz9UbduBxtIQ%3D%3D", "", "", "WS-TASU Tact Switch 4.7*3.5mm, side push type, SMT, with boss design, height 1.65mm, black actuator , 220gf, T&R", "https://www.we-online.com/catalog/datasheet/436331045822.pdf", "1.65 mm"
+END_PART
+
+END.

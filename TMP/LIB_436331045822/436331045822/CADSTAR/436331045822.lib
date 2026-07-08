@@ -1,0 +1,18 @@
+.436331045822 :1 ;WS-TASU Tact Switch 4.7*3.5mm, side push type, SMT, with boss design, height 1.65mm, black actuator , 220gf, T&R
+"436331045822"
+*STM S
+*NGS
+*PLB 1="COM_1" 2="NO_1" 3="COM_2" 4="NO_2"
+*MXP 6
+*DFN 436331045822
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (436331045822)
+~!Mouser Part Number (710-436331045822)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/436331045822?qs=wr8lucFkNMXz9UbduBxtIQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/436331045822.pdf)
+~!Height (1.65mm)
+~!3D_Model (436331045822)
+"436331045822"
+1.1!U 2.1!U 3.1!U 4.1!U 
