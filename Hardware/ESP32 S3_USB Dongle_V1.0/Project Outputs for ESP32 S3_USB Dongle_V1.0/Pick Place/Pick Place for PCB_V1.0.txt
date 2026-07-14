@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+D:\Minh\Project_Personal\ESP32 S3_USB Dongle_HW_Design\Hardware\ESP32 S3_USB Dongle_V1.0\Project Outputs for ESP32 S3_USB Dongle_V1.0\Pick Place\Pick Place for PCB_V1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/07/26
+Time:       11:18
+Revision:   7cca0f86523d5de983e4669561f952c479ac9def
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer    Footprint                                                  Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
+U2         ESP32-S3-PICO-1-N8R2      TopLayer QFN56_7X7_EXP-L                                            1307.630      679.858       180      "ESP32-S3-PICO-1 Is A System-in-p"                                                            
+U1         MIC5504-3.3YM5-TR         TopLayer SOT-23-5_MC_MCH                                            532.000       366.000       0        "MIC5504 Series 3.3 V 300 mA Surface Mount Fixed Single Output LDO - SOT-23-5"                
+TF1        "SDCard Connetor_MSD-1-A" TopLayer CUI_MSD-1-A                                                787.000       772.417       180      "Card Connector, Micro Sd, Push In Auto Eject Out Rohs Compliant: Yes"                        
+SW1        436331045822              TopLayer 436331045822                                               1366.000      1056.315      180      "Wurth Elektronik tactile switch, Solder terminal, size 4.5 x 4.7mm, surface, SPST"           
+R5         RC0402JR-070RL            TopLayer RC0402N_YAG-M                                              1543.000      686.000       0        "GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"    
+R4         RC0402JR-070RL            TopLayer RC0402N_YAG-M                                              1488.000      879.000       270      "GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"    
+R2         RC0402JR-070RL            TopLayer RC0402N_YAG-M                                              387.000       626.000       0        "GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"    
+R1         RC0402JR-070RL            TopLayer RC0402N_YAG-M                                              387.000       576.000       0        "GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.0625W, 0ohm, Surface Mount, 0402"    
+J3         XF2M-0815-1A              TopLayer FPC_CONNECTOR_8PIN,_PITCH_0.5MM_+_MODULE_DISPLAY_1.14_INCH 1727.000      736.000       270      "Conn FFC/FPC Connector SKT 8 POS 0.5mm Solder RA SMD Reel"                                   
+J1         USB-AM-S-S-B-SM1          TopLayer SAMTEC_USB-AM-S-X-X-SM1                                    173.673       601.000       270      "USB Connector, USB Type A, USB 2.0, Plug, 4 Positions, Surface Mount, Right Angle"           
+IC1        "W25Q128JVSIQ TR"         TopLayer SOIC_208MIL_WIN-M                                          1062.000      351.000       0        "NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3V/3.3V 128M-bit 16M x 8 6ns 8-Pin SOIC T/R"      
+H3         10114830-10104LF          TopLayer AMPHENOL_10114830-10104LF                                  590.000       135.213       0        "Board Connector, 4 Contact(S), 1 Row(S), Male, Right Angle, 0.049 Inch Pitch, Surface Mount" 
+H2         10114830-11103LF          TopLayer AMPHENOL_10114830-11103LF                                  1062.000      135.213       0        "WTB 1.25 WAFER 90 SMT-10114830-11103LF"                                                      
+H1         10114830-10104LF          TopLayer AMPHENOL_10114830-10104LF                                  1527.000      135.213       0        "Board Connector, 4 Contact(S), 1 Row(S), Male, Right Angle, 0.049 Inch Pitch, Surface Mount" 
+C21        GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               1277.000      406.000       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C20        GRM155R71C104KA88D        TopLayer CAPC1005X55N                                               1532.000      761.000       270      "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C19        GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               1577.000      761.000       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C18        CL05A105KP5NNNC           TopLayer CAPC1005X55N                                               1520.000      964.000       0        "10V 1uF X5R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                     
+C17        GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               1131.000      759.000       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C5         GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               307.000       645.173       270      "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C4         GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               307.000       555.173       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C3         GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               367.000       446.000       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C2         GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               642.000       381.000       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C1         GRM155R71C104KA88D        TopLayer CAPC1005X55N                                               322.000       446.000       90       "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+R3         CRCW060310K0FKEA          TopLayer RES_CRCW_0603                                              1549.000      879.000       270      "Fixed Resistor, Metal Glaze/Thick Film, 0.1W, 10000ohm, 75V, 1% +/-Tol, Surface Mount, 0603" 
+L1         MHQ1005P2N7CT000          TopLayer IND_1005_TDK                                               1767.000      281.000       0        "General Purpose Inductor, 0.0027uH, 7.4074%, 1 Element, Ceramic-Core, SMD, 0402"             
+L3         LQG15HN2N0C02D            TopLayer INDC1005X55N                                               1821.000      498.000       270      "General Purpose Inductor, 0.002uH, 10%, 1 Element, Reflow soldering, 1005/0402"              
+L2         L0402_NC                  TopLayer IND_1005_TDK_NC                                            1950.000      257.000       270      ""                                                                                            
+J2         "RF Antennas"             TopLayer ANT3216LL00R2400A                                          2067.000      136.000       270      "CERAMIC HELIX CHIP ANTENNA, 433MHZ, 1204; Available until stocks are exhausted"              
+C6         GJM1555C1H1R3BB01D        TopLayer CAPC1005X55N                                               1852.000      296.000       270      "50V 1.3pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                        
+C12        CL05A105KP5NNNC           TopLayer CAPC1005X55N                                               692.000       381.000       90       "10V 1uF X5R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                     
+C11        GRM155R71C104KA88D        TopLayer CAPC1005X55N                                               1575.000      625.000       270      "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C13        CL05A105KP5NNNC           TopLayer CAPC1005X55N                                               742.000       381.000       90       "10V 1uF X5R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                     
+C9         GRM155R71C104KA88D        TopLayer CAPC1005X55N                                               1604.000      524.000       270      "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C8         C0402-NC                  TopLayer CAPC1005X55N_-_NC                                          1933.000      181.000       0        ""                                                                                            
+C7         GJM1555C1H1R2WB01D        TopLayer CAPC1005X55N                                               1662.000      296.000       270      "50V 1.2pF C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                        
+C14        CL05A105KP5NNNC           TopLayer CAPC1005X55N                                               792.000       381.000       90       "10V 1uF X5R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                     
+C15        GRM155R60J106ME15D        TopLayer CAPC1005X55N                                               842.000       381.000       90       "6.3V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C16        GRM155R71C104KA88D        TopLayer CAPC1005X55N                                               1763.000      500.000       270      "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   
+C10        GRM155R71C104KA88D        TopLayer CAPC1005X55N                                               1672.000      524.000       270      "16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"                   

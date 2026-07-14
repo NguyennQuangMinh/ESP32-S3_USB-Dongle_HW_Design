@@ -1,0 +1,10 @@
+Change Component Description : Designator=TF1 Old Description=Card Connector, Micro Sd, Push In Auto Eject Out Rohs Compliant: Yes New Description=Card Connector, Micro Sd, Push In Auto Eject Out Rohs Compliant: Yes |Same Sky MSD-1-A
+Change Component Description : Designator=H2 Old Description=WTB 1.25 WAFER 90 SMT-10114830-11103LF New Description=WTB 1.25 WAFER 90 SMT-10114830-11103LF | Amphenol FCI (Amphenol CS) 1011483011103LF
+Added Pin To Net: NetName=P3V3 Pin=C10-1
+Added Pin To Net: NetName=P3V3 Pin=U2-3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Class: Name=Diff 90
