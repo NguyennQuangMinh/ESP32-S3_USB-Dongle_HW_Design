@@ -29,32 +29,32 @@ This project involves designing a 4-layer PCB using Altium Designer for the USB-
 
 ### 🔹  EEPROM
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/Schematic_Images/Reversion_History_Schematic.png"/>
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/Schematic_Images/EEPROM.png"/>
 </p>
 
 ### 🔹  SD Card
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/Schematic_Images/Reversion_History_Schematic.png"/>
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/Schematic_Images/SD_Card.png"/>
 </p>
 
 ### ✅ Top Layer
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/USB-3.1_to_Gigabit_Ethernet_Adapter_Hardware_Design/blob/main/Documents/Images/Top_Layer.png" />
+  <img src="" />
 </p>
 
 ### ✅ Bottom Layer
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/USB-3.1_to_Gigabit_Ethernet_Adapter_Hardware_Design/blob/main/Documents/Images/Bottom_Layer.png" />
+  <img src="" />
 </p>
 
 ### ✅ 3D Model Top View
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/USB-3.1_to_Gigabit_Ethernet_Adapter_Hardware_Design/blob/main/Documents/Images/3D_Top.png" />
+  <img src="" />
 </p>
 
 ### ✅ 3D Model Top View No Body
 <p align="center">
-  <img src="https://github.com/NguyennQuangMinh/USB-3.1_to_Gigabit_Ethernet_Adapter_Hardware_Design/blob/main/Documents/Images/3D_Top_No3D.png" />
+  <img src="" />
 </p>
 
 ## Output Files
