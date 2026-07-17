@@ -1,6 +1,6 @@
 # ESP32-S3_USB-Dongle_HW_Design 
 ## 🛠️ Project Overview
-This project involves designing a 4-layer PCB using Altium Designer for the USB-3.1 to Gigabit Ethernet Adapter Hardware Design. All components, footprints, schematics, and 3D models were custom-created and assembled with me. Schematic, PCB design, and testing of a custom USB 3.1 SuperSpeed to Gigabit Ethernet adapter based on the Microchip LAN7800. Covers high-speed differential routing, controlled impedance, and more Altium.
+This project involves designing a 4-layer PCB using Altium Designer for the ESP32-S3_USB-Dongle_HW_Design. All components, footprints, schematics, and 3D models were custom-created and assembled with me. Schematic, PCB design, and testing of a custom. Covers high-speed differential routing, controlled impedance, and more Altium.
 ## Design Files 
 ### 🔹  Reversion History Schematic
 <p align="center">
@@ -37,24 +37,54 @@ This project involves designing a 4-layer PCB using Altium Designer for the USB-
   <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/Schematic_Images/SD_Card.png"/>
 </p>
 
+### ✅ Over View Layer
+<p align="center">
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Over_View.png" />
+</p>
+
 ### ✅ Top Layer
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Top_layer.png" />
+</p>
+
+### ✅ Inner Layer 1
+<p align="center">
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Inner_Layer_1.png" />
+</p>
+
+### ✅ Inner Layer 2
+<p align="center">
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Inner_Layer_2.png" />
 </p>
 
 ### ✅ Bottom Layer
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Bottom_Layer.png" />
+</p>
+
+### ✅ Top Overlay
+<p align="center">
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Top_Overlay.png" />
+</p>
+
+### ✅ Bottom Overlay
+<p align="center">
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Bottom_Overlay.png" />
 </p>
 
 ### ✅ 3D Model Top View
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Top_3D.png" />
+</p>
+
+### ✅ 3D Model Bottom View
+<p align="center">
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/Bottom_3D.png" />
 </p>
 
 ### ✅ 3D Model Top View No Body
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/NguyennQuangMinh/ESP32-S3_USB-Dongle_HW_Design/blob/main/Documents/Images/PCB_Images/3D_No_body.png" />
 </p>
 
 ## Output Files
